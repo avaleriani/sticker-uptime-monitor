@@ -10,8 +10,6 @@ sites:
     url: https://mask.jprq.live/
   - name: Google check
     url: https://google.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
