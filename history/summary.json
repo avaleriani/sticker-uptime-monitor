@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/mask.jprq.live",
     "slug": "sticker-mask-service",
     "status": "up",
-    "uptime": "2.16%",
-    "uptimeDay": "2.16%",
-    "uptimeWeek": "2.16%",
-    "uptimeMonth": "2.16%",
-    "uptimeYear": "2.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 672,
     "timeDay": 672,
     "timeWeek": 672,
     "timeMonth": 672,
     "timeYear": 672,
-    "dailyMinutesDown": {
-      "2020-12-08": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google check",
