@@ -7,7 +7,9 @@ sites:
   - name: Sticker Printer App
     url: https://sticker.observer/
   - name: Sticker Mask Service
-    url: https://mask.jprq.live/
+    url: https://mask-281282.jprq.live/
+  - name: Sticker Improve Mask Service
+    url: https://improve-281282.jprq.live/
   - name: Google check
     url: https://google.com
 
