@@ -10,6 +10,8 @@ sites:
     url: https://mask-281282.jprq.live/
   - name: Sticker Improve Mask Service
     url: https://improve-281282.jprq.live/
+    expectedStatusCodes:
+      - 400
   - name: Google check
     url: https://google.com
 
