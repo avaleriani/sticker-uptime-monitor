@@ -23,9 +23,3 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!--end: status pages-->
 
 [**Visit our status website →**](https://avaleriani.github.io/sticker-printer)
-
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Agu Valeriani](https://agustinvaleriani.com/)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
