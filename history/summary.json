@@ -24,7 +24,7 @@
     "slug": "sticker-mask-service",
     "status": "up",
     "uptime": "49.87%",
-    "uptimeDay": "0.37%",
+    "uptimeDay": "0.38%",
     "uptimeWeek": "49.87%",
     "uptimeMonth": "49.87%",
     "uptimeYear": "49.87%",
@@ -47,19 +47,17 @@
     "icon": "https://favicons.githubusercontent.com/improve-281282.jprq.live",
     "slug": "sticker-improve-mask-service",
     "status": "up",
-    "uptime": "2.26%",
-    "uptimeDay": "2.26%",
-    "uptimeWeek": "2.26%",
-    "uptimeMonth": "2.26%",
-    "uptimeYear": "2.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 836,
     "timeWeek": 836,
     "timeMonth": 836,
     "timeYear": 836,
-    "dailyMinutesDown": {
-      "2020-12-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google check",
