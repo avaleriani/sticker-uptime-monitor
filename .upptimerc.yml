@@ -6,10 +6,8 @@ repo: sticker-printer # Your Github repository name
 sites:
   - name: Sticker Printer App
     url: https://sticker.observer/
-  - name: Sticker Mask Service
-    url: https://mask-281282.jprq.live/
-  - name: Sticker Improve Mask Service
-    url: https://improve-281282.jprq.live/
+  - name: Sticker Cut Service
+    url: https://cut.sticker.observer/
     expectedStatusCodes:
       - 400
   - name: Google check
