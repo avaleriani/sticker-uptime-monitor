@@ -5,7 +5,7 @@ repo: sticker-printer # Your Github repository name
 # Add your sites here
 sites:
   - name: Sticker Printer App
-    url: https://sticker.observer/
+    url: https://sticker.observer22/
   - name: Sticker Cut Service
     url: https://cut.sticker.observer/
     expectedStatusCodes:
