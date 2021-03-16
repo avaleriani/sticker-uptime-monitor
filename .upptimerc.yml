@@ -10,6 +10,8 @@ sites:
     url: https://cut.sticker.observer/
     expectedStatusCodes:
       - 400
+  - name: Sticker Queue Service
+    url: https://service.sticker.observer/
   - name: Google check
     url: https://google.com
 
