@@ -4,17 +4,17 @@
     "url": "https://sticker.observer/",
     "icon": "https://favicons.githubusercontent.com/sticker.observer",
     "slug": "sticker-printer-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 962,
-    "timeDay": 0,
-    "timeWeek": 872,
-    "timeMonth": 770,
-    "timeYear": 962,
+    "time": 957,
+    "timeDay": 280,
+    "timeWeek": 788,
+    "timeMonth": 757,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2020-12-26": 34
     }
