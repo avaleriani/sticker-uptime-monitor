@@ -26,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/cut.sticker.observer",
     "slug": "sticker-cut-service",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.94%",
+    "uptimeYear": "96.95%",
     "time": 343,
     "timeDay": 167,
     "timeWeek": 201,
@@ -56,9 +56,9 @@
     "url": "https://service.sticker.observer/",
     "icon": "https://favicons.githubusercontent.com/service.sticker.observer",
     "slug": "sticker-queue-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -67,7 +67,9 @@
     "timeWeek": 649,
     "timeMonth": 640,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-27": 0
+    }
   },
   {
     "name": "Google check",
