@@ -42,8 +42,7 @@
       "2021-06-21": 817,
       "2021-06-20": 1440,
       "2021-06-19": 196,
-      "2021-02-17": 24,
-      "2021-02-08": 431
+      "2021-02-17": 24
     }
   },
   {
@@ -52,11 +51,11 @@
     "icon": "https://favicons.githubusercontent.com/service.sticker.observer",
     "slug": "sticker-queue-service",
     "status": "up",
-    "uptime": "89.30%",
+    "uptime": "89.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.30%",
+    "uptimeYear": "89.33%",
     "time": 613,
     "timeDay": 0,
     "timeWeek": 0,
