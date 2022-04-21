@@ -35,7 +35,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 385,
-    "timeYear": 268,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2022-04-06": 21,
       "2022-01-29": 60,
@@ -51,15 +51,15 @@
     "icon": "https://favicons.githubusercontent.com/service.sticker.observer",
     "slug": "sticker-queue-service",
     "status": "up",
-    "uptime": "90.87%",
-    "uptimeDay": "97.29%",
+    "uptime": "90.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
-    "uptimeMonth": "98.35%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "90.01%",
     "time": 653,
-    "timeDay": 5579,
+    "timeDay": 0,
     "timeWeek": 4715,
-    "timeMonth": 2669,
+    "timeMonth": 2865,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2022-04-19": 39,
@@ -126,7 +126,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 171,
+    "timeYear": 172,
     "dailyMinutesDown": {
       "2022-02-01": 35
     }
