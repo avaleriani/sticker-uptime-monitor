@@ -50,7 +50,7 @@
     "url": "https://service.sticker.observer/",
     "icon": "https://favicons.githubusercontent.com/service.sticker.observer",
     "slug": "sticker-queue-service",
-    "status": "up",
+    "status": "down",
     "uptime": "91.27%",
     "uptimeDay": "98.59%",
     "uptimeWeek": "98.77%",
