@@ -50,8 +50,8 @@
     "url": "https://service.sticker.observer/",
     "icon": "https://favicons.githubusercontent.com/service.sticker.observer",
     "slug": "sticker-queue-service",
-    "status": "up",
-    "uptime": "91.27%",
+    "status": "down",
+    "uptime": "91.28%",
     "uptimeDay": "96.11%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "99.41%",
@@ -62,6 +62,7 @@
     "timeMonth": 8329,
     "timeYear": 851,
     "dailyMinutesDown": {
+      "2022-05-10": 0,
       "2022-05-09": 56,
       "2022-05-05": 63,
       "2022-05-03": 41,
