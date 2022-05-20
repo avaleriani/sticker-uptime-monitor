@@ -26,7 +26,7 @@
     "icon": "https://favicons.githubusercontent.com/cut.sticker.observer",
     "slug": "sticker-cut-service",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -51,7 +51,7 @@
     "icon": "https://favicons.githubusercontent.com/service.sticker.observer",
     "slug": "sticker-queue-service",
     "status": "up",
-    "uptime": "91.41%",
+    "uptime": "91.42%",
     "uptimeDay": "93.30%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "98.84%",
@@ -60,7 +60,7 @@
     "timeDay": 18788,
     "timeWeek": 10640,
     "timeMonth": 9548,
-    "timeYear": 1105,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2022-05-19": 97,
       "2022-05-16": 170,
@@ -134,7 +134,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 175,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2022-02-01": 35
     }
