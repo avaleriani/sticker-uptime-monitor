@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1051,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2021-09-29": 30
     }
@@ -25,7 +25,7 @@
     "icon": "https://favicons.githubusercontent.com/cut.sticker.observer",
     "slug": "sticker-cut-service",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -50,7 +50,7 @@
     "icon": "https://favicons.githubusercontent.com/service.sticker.observer",
     "slug": "sticker-queue-service",
     "status": "up",
-    "uptime": "91.49%",
+    "uptime": "91.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.66%",
     "uptimeMonth": "97.84%",
@@ -59,7 +59,7 @@
     "timeDay": 0,
     "timeWeek": 10137,
     "timeMonth": 9784,
-    "timeYear": 1419,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2022-05-25": 232,
       "2022-05-24": 84,
