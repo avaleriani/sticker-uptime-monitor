@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1023,
-    "timeDay": 1264,
-    "timeWeek": 1513,
-    "timeMonth": 1226,
-    "timeYear": 1147,
+    "time": 1024,
+    "timeDay": 1297,
+    "timeWeek": 1542,
+    "timeMonth": 1228,
+    "timeYear": 1154,
     "dailyMinutesDown": {
       "2021-09-29": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.88%",
-    "time": 282,
-    "timeDay": 462,
-    "timeWeek": 397,
-    "timeMonth": 351,
-    "timeYear": 305,
+    "time": 281,
+    "timeDay": 226,
+    "timeWeek": 379,
+    "timeMonth": 347,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2022-07-01": 116,
       "2022-06-30": 325,
@@ -51,16 +51,16 @@
     "icon": "https://favicons.githubusercontent.com/service.sticker.observer",
     "slug": "sticker-queue-service",
     "status": "up",
-    "uptime": "90.56%",
+    "uptime": "90.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.59%",
+    "uptimeMonth": "85.87%",
     "uptimeYear": "87.17%",
     "time": 1283,
-    "timeDay": 1168,
-    "timeWeek": 1308,
-    "timeMonth": 1151,
-    "timeYear": 1691,
+    "timeDay": 1408,
+    "timeWeek": 1405,
+    "timeMonth": 1160,
+    "timeYear": 1694,
     "dailyMinutesDown": {
       "2022-07-01": 561,
       "2022-06-30": 1440,
@@ -135,8 +135,7 @@
       "2021-09-23": 1440,
       "2021-09-22": 1440,
       "2021-09-21": 1440,
-      "2021-09-20": 148,
-      "2021-07-27": 29
+      "2021-09-20": 148
     }
   },
   {
@@ -151,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 165,
-    "timeDay": 125,
-    "timeWeek": 125,
-    "timeMonth": 146,
+    "timeDay": 87,
+    "timeWeek": 119,
+    "timeMonth": 144,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2022-02-01": 35
