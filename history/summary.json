@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1257,
-    "timeDay": 1016,
-    "timeWeek": 1054,
-    "timeMonth": 1029,
-    "timeYear": 1229,
+    "timeDay": 1092,
+    "timeWeek": 1074,
+    "timeMonth": 1030,
+    "timeYear": 1228,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cut.sticker.observer.ico",
     "slug": "sticker-cut-service",
     "status": "down",
-    "uptime": "49.92%",
+    "uptime": "49.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 6698,
     "timeYear": 6698,
     "dailyMinutesDown": {
-      "2024-04-29": 20,
+      "2024-04-30": 19,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -397,8 +398,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.sticker.observer.ico",
     "slug": "sticker-queue-service",
     "status": "down",
-    "uptime": "45.65%",
+    "uptime": "45.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-29": 20,
+      "2024-04-30": 19,
+      "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -781,8 +782,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -797,9 +797,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.15%",
     "time": 191,
-    "timeDay": 176,
-    "timeWeek": 245,
-    "timeMonth": 211,
+    "timeDay": 277,
+    "timeWeek": 265,
+    "timeMonth": 217,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2024-04-08": 25,
