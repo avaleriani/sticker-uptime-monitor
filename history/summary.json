@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1198,
-    "timeDay": 1046,
-    "timeWeek": 1048,
-    "timeMonth": 1111,
-    "timeYear": 1145,
+    "time": 1193,
+    "timeDay": 1135,
+    "timeWeek": 1066,
+    "timeMonth": 1104,
+    "timeYear": 1144,
     "dailyMinutesDown": {}
   },
   {
@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cut.sticker.observer.ico",
     "slug": "sticker-cut-service",
     "status": "down",
-    "uptime": "45.40%",
+    "uptime": "45.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.79%",
-    "uptimeYear": "2.87%",
+    "uptimeMonth": "39.08%",
+    "uptimeYear": "3.14%",
     "time": 6698,
     "timeDay": 0,
     "timeWeek": 0,
@@ -385,8 +385,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -395,12 +394,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.sticker.observer.ico",
     "slug": "sticker-queue-service",
     "status": "down",
-    "uptime": "41.42%",
+    "uptime": "41.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.79%",
-    "uptimeYear": "2.87%",
-    "time": 338,
+    "uptimeMonth": "39.08%",
+    "uptimeYear": "3.14%",
+    "time": 226,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -757,8 +756,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -772,11 +770,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 174,
-    "timeDay": 142,
-    "timeWeek": 168,
-    "timeMonth": 169,
-    "timeYear": 170,
+    "time": 175,
+    "timeDay": 374,
+    "timeWeek": 198,
+    "timeMonth": 176,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2024-05-01": 29,
       "2024-04-08": 25,
