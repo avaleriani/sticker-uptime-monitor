@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1191,
-    "timeDay": 1014,
-    "timeWeek": 1076,
-    "timeMonth": 1091,
-    "timeYear": 1141,
+    "time": 1190,
+    "timeDay": 952,
+    "timeWeek": 1062,
+    "timeMonth": 1088,
+    "timeYear": 1140,
     "dailyMinutesDown": {}
   },
   {
@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cut.sticker.observer.ico",
     "slug": "sticker-cut-service",
     "status": "down",
-    "uptime": "45.77%",
+    "uptime": "45.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.38%",
-    "uptimeYear": "5.33%",
+    "uptimeMonth": "68.67%",
+    "uptimeYear": "5.61%",
     "time": 6698,
     "timeDay": 0,
     "timeWeek": 0,
@@ -376,8 +376,7 @@
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
-      "2023-10-02": 1440,
-      "2023-10-01": 1440
+      "2023-10-02": 1440
     }
   },
   {
@@ -386,11 +385,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.sticker.observer.ico",
     "slug": "sticker-queue-service",
     "status": "down",
-    "uptime": "41.83%",
+    "uptime": "41.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.38%",
-    "uptimeYear": "5.33%",
+    "uptimeMonth": "68.67%",
+    "uptimeYear": "5.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -739,8 +738,7 @@
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
-      "2023-10-02": 1440,
-      "2023-10-01": 1440
+      "2023-10-02": 1440
     }
   },
   {
@@ -755,8 +753,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 176,
-    "timeDay": 229,
-    "timeWeek": 186,
+    "timeDay": 153,
+    "timeWeek": 183,
     "timeMonth": 178,
     "timeYear": 171,
     "dailyMinutesDown": {
