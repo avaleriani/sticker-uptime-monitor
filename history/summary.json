@@ -10,11 +10,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 1086,
-    "timeDay": 993,
-    "timeWeek": 1046,
-    "timeMonth": 1096,
-    "timeYear": 1084,
+    "time": 1089,
+    "timeDay": 2216,
+    "timeWeek": 1196,
+    "timeMonth": 1129,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2025-07-24": 32,
       "2025-07-19": 62
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cut.sticker.observer.ico",
     "slug": "sticker-cut-service",
     "status": "down",
-    "uptime": "55.76%",
+    "uptime": "55.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.90%",
-    "time": 17128,
-    "timeDay": 19580,
-    "timeWeek": 19825,
-    "timeMonth": 19736,
-    "timeYear": 19736,
+    "uptimeYear": "89.17%",
+    "time": 17564,
+    "timeDay": 19744,
+    "timeWeek": 19829,
+    "timeMonth": 19737,
+    "timeYear": 19737,
     "dailyMinutesDown": {
       "2024-09-08": 791,
       "2024-09-07": 1440,
@@ -75,8 +75,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -85,16 +84,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.sticker.observer.ico",
     "slug": "sticker-queue-service",
     "status": "down",
-    "uptime": "52.91%",
+    "uptime": "52.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.90%",
-    "time": 19697,
-    "timeDay": 19623,
-    "timeWeek": 19759,
-    "timeMonth": 19697,
-    "timeYear": 19697,
+    "uptimeYear": "89.17%",
+    "time": 19738,
+    "timeDay": 19903,
+    "timeWeek": 19787,
+    "timeMonth": 19738,
+    "timeYear": 19738,
     "dailyMinutesDown": {
       "2024-09-08": 791,
       "2024-09-07": 1440,
@@ -134,8 +133,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -150,10 +148,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 135,
-    "timeWeek": 202,
-    "timeMonth": 174,
-    "timeYear": 184,
+    "timeDay": 114,
+    "timeWeek": 161,
+    "timeMonth": 172,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2025-02-11": 27
     }
